@@ -1,0 +1,14 @@
+a = ("May 25th")
+print(a)
+
+b = ("November 21st")
+print(b)
+
+c = ("February 14th")
+print(c)
+
+d = ("July 4th")
+print(d)
+
+e = ("August 27th")
+print(e)
